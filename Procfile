@@ -1,1 +1,1 @@
-web: gunicron deploy:app
+web: gunicron app:app
