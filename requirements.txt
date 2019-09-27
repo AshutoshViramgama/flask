@@ -11,7 +11,7 @@ fastprogress==0.1.21
 Flask==1.1.1
 Flask-Cors==3.0.8
 Flask-MySQLdb==0.2.0
-gunicorn==19.9.0
+git+https://github.com/benoitc/gunicorn.git
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10.1
