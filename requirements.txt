@@ -9,7 +9,7 @@ cymem==2.0.2
 fastai==1.0.57
 fastprogress==0.1.21
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-MySQLdb==0.2.0
 git+https://github.com/benoitc/gunicorn.git
 idna==2.8
